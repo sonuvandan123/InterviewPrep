@@ -7,8 +7,8 @@ public class ReplaceAllMethod {
 		char ch='a';
 		String name="vandan";
 		
-		String name2=name.replaceAll(Character.toString(ch),"");
-		System.out.println(name2);
+		String name2=name.replaceAll(name,"");
+		System.out.println("String is"+name2);
 		
 	}
 
