@@ -1,4 +1,4 @@
-package trickyquestions;
+package stringprograms;
 
 public class StringUpperLower {
 

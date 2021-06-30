@@ -1,4 +1,4 @@
-package trickyquestions;
+package stringconceptual;
 
 public class ReplaceAllMethod {
 
